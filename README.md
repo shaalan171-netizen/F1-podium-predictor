@@ -12,6 +12,8 @@ are available — a demo version with sample data that runs instantly with no
 setup, and a full version powered by the real Kaggle F1 dataset with actual 
 charts and model outputs rendered.
 
+Feel Free to check it out in Google Colab 2. 
+https://colab.research.google.com/github/shaalan171-netizen/F1-podium-predictor/blob/main/f1_podium_predictor.ipynb
 ## Versions
 
 ### Version 1 — Demo (No Setup Required)
